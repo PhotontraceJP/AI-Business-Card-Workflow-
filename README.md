@@ -1,5 +1,5 @@
-# Photontrace Original AI Business Card Management Workflow
-# Photontraceオリジナル AI名刺管理ワークフロー
+# Photontrace Original AI assisted Business Card Management Workflow
+# Photontraceオリジナル AI支援 名刺管理ワークフロー
 <img width="800" height="400" alt="AI-assisted contact workflow　w800" src="https://github.com/user-attachments/assets/06b37e80-55fc-46c6-8761-4b066f6fbdb1" />
 
 AI-assisted business card digitization, contact organization, CRM synchronization, and cloud backup workflow.
