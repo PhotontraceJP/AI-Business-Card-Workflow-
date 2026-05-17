@@ -20,6 +20,7 @@ AI OCR、AI分類、CRM連携、クラウドバックアップを組み合わせ
 ##  主な機能
 
 ###  AI支援名刺スキャン
+<img width="150" height="150" alt="名刺管理アプリ" src="https://github.com/user-attachments/assets/ebf21da4-16e8-4374-81fa-b00d799b475c" />
 
 - 名刺画像の読み込み　スマホ・スキャナなどで可(PNG, JPEG)
 
